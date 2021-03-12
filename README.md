@@ -5,4 +5,4 @@ Scripts for structural path analysis in R. The original scripts were in Matlab b
 ## TO DO
 - Graphs diagrams on sequence of algorithm implementation
 - Building the tree(build_tree.R) have some issues and needs to be sorted out. Rest works fine.
-- BFS or DFS graph algoriths can be explored with regard to this scripts. Graphblas can be an excellent choice
+- BFS or DFS graph algorithms can be explored. Graphblas can be an excellent choice
