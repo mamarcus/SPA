@@ -4,4 +4,5 @@ Scripts for structural path analysis in R. The original scripts were in Matlab b
 
 ## issues to be sorted
 
-Building the tree needs to be sorted out. either bfs or dfs algorithm can be tried .  Rest works fine. 
+Building the tree needs to be sorted out. either bfs or dfs graph algorithm can be tried .  Rest works fine.
+Graphblas can be an excellent choice hence a python variation of it is in line.
