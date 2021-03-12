@@ -1,2 +1,1 @@
-# SPA
-Structural Path Analysis scripts in R language
+#Structural Path Analysis
